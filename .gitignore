@@ -9,3 +9,4 @@ resources/_gen/
 *.log
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-git/.git_credentials_input
