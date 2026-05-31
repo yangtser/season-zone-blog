@@ -1,0 +1,11 @@
+.DS_Store
+.hugo_build.lock
+
+# Hugo build output
+public/
+resources/_gen/
+
+# Local editor/cache files
+*.log
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

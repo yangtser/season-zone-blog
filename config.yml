@@ -1,0 +1,44 @@
+baseURL: 'https://season.zone/'
+title: 卷卷
+theme: 'hugo-theme-ladder'
+
+description: 
+homepage: 'https://season.zone/'
+defaultContentLanguage: 'zh'
+pagination:
+  pagerSize: 10
+enableEmoji: true
+
+
+params:
+  brand: "主页"
+  avatarURL: /images/juan.png
+  author: 卷卷
+  authorDescription:
+  info: "躺不平，卷不赢，仰卧起坐腰不行 🥱"
+  favicon: /images/juan.png
+  options:
+    showDarkMode: true
+    enableImgZooming: true
+    enableMultiLang: false
+    showMetaTags: true 
+  darkModeTheme: data-dark-mode
+
+
+menu:
+  main:
+    - name: 文章
+      url: /blog
+      weight: 1
+    - name: 分类
+      url: /tags
+      weight: 2
+    - name: 归档
+      url: /archives
+      weight: 3
+    - name: 留言板
+      url: /guestbook
+      weight: 4
+taxonomies:
+    series: series
+    tag: tags
