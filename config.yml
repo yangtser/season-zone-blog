@@ -1,9 +1,9 @@
-baseURL: 'https://season.zone/'
+baseURL: 'https://yangtser.github.io/season-zone-blog/'
 title: 卷卷
 theme: 'hugo-theme-ladder'
 
 description: 
-homepage: 'https://season.zone/'
+homepage: 'https://yangtser.github.io/season-zone-blog/'
 defaultContentLanguage: 'zh'
 pagination:
   pagerSize: 10
