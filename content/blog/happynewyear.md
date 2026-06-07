@@ -8,4 +8,4 @@ featured: true
 
 <!--more-->
 
-![](/images/postimages/hpny.jpg)
+![](static/images/postimages/hpny.jpg)
